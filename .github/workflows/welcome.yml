@@ -1,0 +1,6 @@
+name: Post 
+on:
+  pull_request:
+    types: [opened]
+permissons:
+  pull-requests: write
